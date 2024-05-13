@@ -2,9 +2,9 @@ name: Java Ci With Gradle.
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 permissions: write-all
 
